@@ -1,5 +1,4 @@
 <h1 align="center">🌐 TechCircle</h1>
-<img src="https://drive.google.com/uc?export=view&id=1aSTVtV4X4_YGddVvr8CchsCfVrLkrget" width="200">
 
 <p align="center"><i>Tecnologia inclusiva, acessível e construída com propósito.</i></p>
 

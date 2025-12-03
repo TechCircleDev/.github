@@ -56,7 +56,6 @@ Acreditamos que a tecnologia deve ser um espaço seguro, acolhedor e representat
 <details>
   <summary><b>🌍 Traduções Automáticas</b></summary>
 
-[![Traduzir](https://img.icons8.com/color/512/google-translate.png)](https://translate.google.com/translate?sl=en&tl=pt&u=https://github.com/TechCircleDev)
- 
+[<img src="https://img.icons8.com/color/512/google-translate.png" width="40"/>](https://translate.google.com/translate?sl=auto&tl=pt&u=https://github.com/TechCircleDev) 
 
 </details>
